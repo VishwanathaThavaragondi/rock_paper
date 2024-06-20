@@ -1,0 +1,11 @@
+button{background-color: blue;}
+button:hover{background-color: green;}
+label:hover{background-color: orangered;}
+/* input:focus{background-color: gray;} */
+input{background-color: red;}
+/* p::after{
+    content: url(https://editorial.uefa.com/resources/025a-0e9f8eb911c7-6d6acd24dbfe-1000/cristiano_ronaldo_portugal_.jpeg);
+} */
+p::after{
+    content: url(https://editorial.uefa.com/resources/025a-0e9f8eb911c7-6d6acd24dbfe-1000/cristiano_ronaldo_portugal_.jpeg);
+}

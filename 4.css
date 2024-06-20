@@ -1,0 +1,8 @@
+body{
+    
+    background-image:url('hhh.png'),url(./hey.jpg);
+    background-repeat:no-repeat,repeat;
+    background-position-x: 100px;
+    background-position-y: 50px;
+
+}

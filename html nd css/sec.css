@@ -1,0 +1,30 @@
+/* [class*="cr"]{
+    background-color: green;
+} */
+/* div{
+background-color: red;
+color: blue;
+} */
+/* div{
+    background-color: rgb(107, 59, 155);
+color: rgb(123, 146, 128);
+} */
+/* div{
+    background-color: rgba(107, 59, 155,0.1);
+color: rgb(123, 146, 128);
+} */
+/* div{
+    /* background-color:#fafff2; 
+color: rgb(123, 146, 128);
+} */
+/* div{
+    background-color: hsl(255,100%,50%);
+color: rgb(123, 146, 128);
+}
+div{
+    background-color: hsla(255,100%,50%,0.1);
+color: rgb(41, 151, 65);
+} */
+.new{
+    background-color: aquamarine;
+}
